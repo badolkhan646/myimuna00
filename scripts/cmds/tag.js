@@ -1,7 +1,7 @@
 module.exports = {
   config: {
-    name: "t",
-    alises:[tag],
+    name: "tag",
+    alises:[],
     category: 'tag',
     role:0,
     author: 'dipto',
